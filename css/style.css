@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+body {
+    font-family: Verdana, Arial, serif;
+    font-size: 12px;
+}
+.wrapper {
+    max-width: 960px;
+    min-width: 290px;
+    width: 87.5%;
+    margin: 0 auto;
+}
